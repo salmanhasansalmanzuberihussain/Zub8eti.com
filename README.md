@@ -1,4 +1,4 @@
-Source Code | Only available for interview
+Programming by Salman Hasan 
 
 Content/Images by Salman Hasan [Salman Zuberi Hussain] | Exclusively on Zub8eti.com
 

@@ -1,4 +1,4 @@
-Programming by Salman Hasan 
+Programming by Salman Hasan [Salman Zuberi Hussain]
 
 Content/Images by Salman Hasan [Salman Zuberi Hussain] | Exclusively on Zub8eti.com
 

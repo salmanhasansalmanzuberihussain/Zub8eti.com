@@ -13,3 +13,4 @@ Updated Date for my organization, Zub8eti.com [Programmed by me] (Using Youtube 
 Remade Template on Date Laptop Picked Up from Apple Store [Quaker Bridge Mall] 
 Ability to remake whole website from scratch and template
 Typing article for zub8eti.com, organization i made and own at this time and releasing. Mobile template are improving and set. Supply chain hooked up by me using Vercel integration and Vercel blob
+Adding image design using canva. Made/Documented my process

@@ -9,4 +9,4 @@ Exclusive Updates | Adjusting Navigation Tool Bar and Adjusting Content to App
 
 
 March 15th, 2025 12:33AM
-Updated Date for my organization, Zub8eti.com [Programmed by me] (Using Youtube and template I made and organization i own at this time) 
+Updated Date for my organization, Zub8eti.com [Programmed by me] (Using Youtube and template I made and organization i own at this time)

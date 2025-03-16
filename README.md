@@ -28,3 +28,4 @@ Added things that I used to watch as a kid to classic cults nothing serious all 
 
 March 16th, 2025 11:05am
 Updated Dates for NextJS
+Removed Diary 

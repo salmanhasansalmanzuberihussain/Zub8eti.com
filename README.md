@@ -16,3 +16,4 @@ Typing article for zub8eti.com, organization i made and own at this time and rel
 Adding image design using canva. Made/Documented my process
 Adding Diary of me Learning Arabic a bit-9:02PM
 Adding Article of what I feel about family
+Make Adobe Premire Pro design with Canva for Arabic

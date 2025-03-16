@@ -24,3 +24,4 @@ Updating Dates
 Recorded video at home March 15th, Basketball to Music Discs
 Editing Clips 
 Uploading to Vercel Distribution and Vercel Blob to showcase what life is sometimes and growth for our world. Always remain peaceful and remember entertainment like a movie. 
+Added things that I used to watch as a kid to classic cults nothing serious all fun and games with everyone

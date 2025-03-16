@@ -17,3 +17,6 @@ Adding image design using canva. Made/Documented my process
 Adding Diary of me Learning Arabic a bit-9:02PM
 Adding Article of what I feel about family
 Make Adobe Premire Pro design with Canva for Arabic
+Edit of article
+Updating IP 
+Deploying to Vercel at 10:36pm before working out at home

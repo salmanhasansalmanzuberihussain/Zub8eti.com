@@ -31,3 +31,4 @@ Updated Dates for NextJS
 Removed Diary 
 Adjusted Margin Right to fix mobile app as app wasn't working
 Need to read bold after removing
+Updating Diaries- 7:03PM

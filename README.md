@@ -20,3 +20,7 @@ Make Adobe Premire Pro design with Canva for Arabic
 Edit of article
 Updating IP 
 Deploying to Vercel at 10:36pm before working out at home
+Updating Dates
+Recorded video at home March 15th, Basketball to Music Discs
+Editing Clips 
+Uploading to Vercel Distribution and Vercel Blob to showcase what life is sometimes and growth for our world. Always remain peaceful and remember entertainment like a movie. 
